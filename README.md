@@ -32,7 +32,7 @@ English/[中文](README-CN.md)
 * Audio : speaker, headphone, mic working(AppleALC).
 * Camera : working.
 * KeyBoard : keyboard (PS2, support Fn key controll : mute F1, volume down/up F2/F3, video play/stop F4, keyboard brightness F5, 
-                       brightness down/up F6/F7, disable trackpad F10) working.
+                       brightness down/up F6/F7, disable touchpad F10) working.
 * Touchpad : Touchpad (I2C GPIO interrupt, support Multi-touch gesture) working.
 * USB : USB3.1 Type-C port (10 Gbps) working
 * ThunderBolt 3 : ThunderBolt 3 (40 Gbps) testing on external GPU(Razer CoreX with 5700XT) working.
@@ -43,7 +43,7 @@ English/[中文](README-CN.md)
 ### Known Problem
 * Second sleep will cause kernel panic
 * can‘t disable cfg lock (will be appreciate if someone can help)
-* poor headphone quality
+* poor headphone sound quality
 * thunderbolt hotplug not working
 * display may become very dark if wake immediately 
 
