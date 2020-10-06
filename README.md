@@ -35,7 +35,7 @@ English/[中文](README-CN.md)
                        brightness down/up F6/F7, disable touchpad F10) working.
 * Touchpad : Touchpad (I2C GPIO interrupt, support Multi-touch gesture) working.
 * USB : USB3.1 Type-C port (10 Gbps) working
-* ThunderBolt 3 : ThunderBolt 3 (40 Gbps) testing on external GPU(Razer CoreX with 5700XT) working.
+* ThunderBolt 3 : ThunderBolt 3 (40 Gbps) testing on external GPU(Razer CoreX with AMD Radeon RX 5700XT) working.
 * Brightness Controll : wokring.
 * Sleep/Wake: partialy working(can sleep once, second sleep will cause kernel panic).
 * SD card reader : working.
