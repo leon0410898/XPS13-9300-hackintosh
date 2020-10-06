@@ -45,7 +45,7 @@ English/[中文](README-CN.md)
 * can‘t disable cfg lock (will be appreciate if someone can help)
 * poor headphone sound quality
 * thunderbolt hotplug not working
-* display may become very dark if wake immediately 
+* display may be very dark if wake immediately 
 
 ![hackintosh](./screenshot/hackintosh.png)
 
