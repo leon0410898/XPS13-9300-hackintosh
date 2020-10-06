@@ -14,6 +14,8 @@ English/[中文](README-CN.md)
 
 **macOS Version**: macOS Catalina 10.15.7 (Big Sur version will update soon) 
 
+![hackintosh](./screenshot/hackintosh.png)
+
 ### Tested hardware configuration
 
 | Key                    | Value                                                        |
@@ -53,8 +55,6 @@ English/[中文](README-CN.md)
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
 * usb-c to hdmi/DP probably not working
-
-![hackintosh](./screenshot/hackintosh.png)
 
 ![usb2](./screenshot/usb2.png)
 
