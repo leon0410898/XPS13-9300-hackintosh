@@ -52,6 +52,7 @@ English/[中文](README-CN.md)
 * poor headphone sound quality
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
+* usb-c to hdmi/DP probably not working
 
 ![hackintosh](./screenshot/hackintosh.png)
 
