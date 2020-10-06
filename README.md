@@ -2,7 +2,7 @@
 
 English/[中文](README-CN.md)
 
-**Note1 : This guide is NOT for 4K display user. You probably get black screen if you use my EFI.**
+**Note1 : This guide is NOT for 4K display user. You will probably get black screen if you use my EFI.**
 
 **Note2 : I AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!**
 
