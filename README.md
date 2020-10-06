@@ -27,6 +27,7 @@ English/[中文](README-CN.md)
 | Audio                  | Realtek ALC289                                               |
 | Wireless               | Killer ax1650                              |
 | SD card reader         | Realtek rts525a                      |
+| Battery                | BYD 52Whr                                |
 
 ### Working
 
@@ -43,6 +44,7 @@ English/[中文](README-CN.md)
 * Brightness Controll : wokring.
 * Sleep/Wake: partialy working(can sleep once, second sleep will cause kernel panic).
 * SD card reader : working.
+* Battery : working
 
 ### Known Problem
 * Second sleep will cause kernel panic
