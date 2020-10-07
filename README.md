@@ -1,4 +1,4 @@
-## XPS13 9300
+## Dell XPS13 9300
 
 English/[中文](README-CN.md)
 
@@ -20,7 +20,7 @@ English/[中文](README-CN.md)
 
 | Key                    | Value                                                        |
 | ---------------------- | ------------------------------------------------------------ |
-| SKU                    | [XPS13-9300](https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9300-laptop) |
+| SKU                    | [Dell XPS13-9300](https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9300-laptop) |
 | CPU                    | Intel Core i7-1065G7                                           |
 | GPU                    | Intel Iris Plus Graphics G7                                       |
 | Builtin Screen         | 13.4"  Sharp 1920x1200 Non-Touch                                      |
