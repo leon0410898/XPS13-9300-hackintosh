@@ -2,7 +2,7 @@
 
 English/[中文](README-CN.md)
 
-**Note1 : This guide may NOT work for 4K display user. You can install macOS.However you'll probably encounter black screen issue.**
+**Note1 : This guide may NOT work for 4K display user. You still can install macOS. However you'll probably encounter black screen issue.**
 
 **Note2 : I AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!**
 
