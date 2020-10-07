@@ -37,7 +37,7 @@ English/[中文](README-CN.md)
 * Wireless : WiFi, handoff working.
 * Bluetooth : working.
 * Audio(AppleALC) : speaker, headphone, mic working(if your headphone's vocal is mute. You can adjust headphone's balance in 
-                    preference pane to the left or right).
+                    preference pane to the left or to the right).
 * Camera : working.
 * KeyBoard : keyboard (PS2, support Fn key controll : mute F1, volume down/up F2/F3, video play/stop F4, keyboard brightness F5, 
                        brightness down/up F6/F7, disable touchpad F10) working.
