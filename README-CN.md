@@ -2,16 +2,21 @@
 
 中文/[English](README.md)
 
+**警告1：4K螢幕的用戶,仍能用這個repo的EFI, 但有很大機率進系統黑屏, 若有解決辦法歡迎提出**
+
+**警告2：此EFI對您的電腦造成任何影響, 本人不負責任, 請同意後再使用**
 
 **OpenCore 版本**: [0.6.2](https://github.com/acidanthera/OpenCorePkg/releases)
 
 **macOS 版本**: macOS Catalina 10.15.7
 
+**bios 版本**: 1.2.0
+
 ### 硬體配置
 
 | Key                | Value                                                        |
 | ------------------ | ------------------------------------------------------------ |
-| SKU                | [XPS13-9300](https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9300-laptop) |
+| SKU                | [Dell XPS13-9300](https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9300-laptop) |
 | CPU                | Intel Core i7-1065G7                                          |
 | 顯卡                | Intel Iris Plus Graphics G7                                       |
 | 內建螢幕            | 13.4"  1080p 夏普 霧面 非觸控螢幕                                         |
@@ -31,7 +36,7 @@
 * 鍵盤(PS2, Fn鍵正常 F1:靜音 F2/F3:音量調小/大 F4:播放/暫停 F5:鍵盤背光調整 F6/F7:亮度調低/高 F10:禁用觸控板) 
 * 觸控板正常(I2C GPIO 中斷,支持多指手勢操作)
 * USB : USB3.1 Type-C port (10 Gbps) 正常
-* 雷電3 : 雷電3 (40 Gbps) 外接顯卡 (Razer CoreX with 5700XT) 正常工作
+* 雷電3 : 雷電3 (40 Gbps) 外接顯卡 (Razer CoreX with AMD Radeon RX5700XT) 正常工作
 * 亮度(快捷鍵) 控制 : 正常
 * 睡眠 : 部分正常(只能一次睡眠, 第二次睡眠系統會重啟)
 * SD 讀卡機 : 正常
