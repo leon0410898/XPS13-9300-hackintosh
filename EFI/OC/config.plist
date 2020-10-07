@@ -922,7 +922,7 @@
 				<string>WhateverGreen.kext</string>
 			</dict>
 			<dict>
-				<key>Comme
+				<key>Comment</key>
 				<string></string>
 				<key>MaxKernel</key>
 				<string></string>
