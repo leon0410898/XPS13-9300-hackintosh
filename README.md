@@ -60,3 +60,9 @@ English/[中文](README-CN.md)
 ![usb2](./screenshot/usb2.png)
 
 ![audio2](./screenshot/audio2.png)
+
+![egpu](./screenshot/egpu.png)
+
+![metal score](./screenshot/egpu_score1.png)
+
+![openCL score](./screenshot/egpu_score2.png)
