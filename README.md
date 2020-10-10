@@ -63,6 +63,8 @@ English/[中文](README-CN.md)
 
 ![egpu](./screenshot/egpu.png)
 
+metal score tested on egpu(5700xt)
 ![metal score](./screenshot/egpu_score1.png)
 
+openCL score tested on egpu(5700xt)
 ![openCL score](./screenshot/egpu_score2.png)
