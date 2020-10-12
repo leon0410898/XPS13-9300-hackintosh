@@ -2,7 +2,9 @@
 
 English/[中文](README-CN.md)
 
-**Note1 : This guide may NOT work for 4K display user. You can install macOS. However you'll probably encounter black screen issue.**
+**Note1 : ~~This guide may NOT work for 4K display user. You can install macOS. However you'll probably encounter black screen issue.~~**
+          **4K display is working now, but still some work to do. May release later.**  
+            
 
 **Note2 : I AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!**
 
@@ -45,13 +47,13 @@ English/[中文](README-CN.md)
 * USB : USB3.1 Type-C port (10 Gbps) working
 * ThunderBolt 3 : ThunderBolt 3 (40 Gbps) testing on external GPU(Razer CoreX with AMD Radeon RX 5700XT) working.
 * Brightness Controll : wokring.
-* Sleep/Wake: partialy working(can sleep once, second sleep will cause kernel panic).
+* Sleep/Wake: ~~partialy working(can sleep once, second sleep will cause kernel panic).~~ working perfectly
 * SD card reader : working.
 * Battery : working
 
 ### Known Problem
-* Second sleep will cause kernel panic
-* can‘t disable cfg lock (will be appreciate if someone can help)
+* ~~Second sleep will cause kernel panic~~
+* ~~can‘t disable cfg lock (will be appreciate if someone can help)~~  take a look -> https://github.com/Not-a-true-statement/OC-XPS-13-9300
 * poor sound quality for high end earphone, but sounds OK for 10 dollars earphone. 
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
