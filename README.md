@@ -38,8 +38,7 @@ English/[中文](README-CN.md)
 * iGPU : working.
 * Wireless : WiFi, handoff working.
 * Bluetooth : working.
-* Audio(AppleALC) : speaker, headphone, mic working(if your headphone's vocal is mute. You can adjust headphone's balance in 
-                    preference pane to the left or to the right).
+* Audio(AppleALC) : speaker, headphone, mic working.
 * Camera : working.
 * KeyBoard : keyboard (PS2, support Fn key controll : mute F1, volume down/up F2/F3, video play/stop F4, keyboard brightness F5, 
                        brightness down/up F6/F7, disable touchpad F10) working.
@@ -54,7 +53,7 @@ English/[中文](README-CN.md)
 ### Known Problem
 * ~~Second sleep will cause kernel panic~~
 * ~~can‘t disable cfg lock (will be appreciate if someone can help)~~  take a look -> https://github.com/Not-a-true-statement/OC-XPS-13-9300
-* poor sound quality for high end earphone, but sounds OK for 10 dollars earphone. 
+* ~~poor sound quality for low impedance headphones , but sounds OK for normal earphone.~~ all working perfectly 
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
 * usb-c to hdmi/DP probably not working
