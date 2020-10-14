@@ -19,7 +19,7 @@ English/[中文](README-CN.md)
 | Screen                     | Working - 1920x1200 Non-touch                               |
 | RAM                        | Working - On Board 16G                                      |
 | SSD                        | Working - 2TB                                               |
-| Audio                      | Working - headphones jack need to be fixed by combojack     |                              
+| Audio                      | Working - headphones jack need to be fixed by [combojack](https://github.com/leon0410898/XPS13-9300-hackintosh/tree/master/ComboJack_Installer)                                                |                              
 | Wireless                   | Working - wifi / handoff                                    |
 | Bluetooth                  | Working - airpods pro / apple watch                         |
 | SD card reader             | Working                                                     |                     
