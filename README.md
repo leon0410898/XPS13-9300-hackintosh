@@ -15,7 +15,7 @@ English/[中文](README-CN.md)
 | Hardware                   | Status                                                      |
 | ----------------------     | ------------------------------------------------------------|
 | CPU - i7-1065G7            | Working - Applying voltageshift for better performance   |
-| GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire is loaded                     |
+| GPU - Iris Plus G7         | Working - Appple GUC firmwire is loaded                     |
 | Screen                     | Working - 1920x1200 Non-touch                              |
 | RAM                        | Working - On Board 16G |
 | SSD                        | Working - 2TB |
@@ -63,7 +63,7 @@ Thanks to 宪武. He has done a lot of work on 4k display. But still, there are 
 ## Disable CFG lock
 For people who want better cpu performance(undervolt, modify PL1,PL2) need to unlock their cfg lock.
 DO AT YOUR OWN RISK!!! It may brick your laptop.
-Follow the guide from this repo :  https://github.com/Not-a-true-statement/Hackintosh-OC-XPS-13-9300
+Follow the guide at :  https://github.com/Not-a-true-statement/Hackintosh-OC-XPS-13-9300
 
 ## Known Problem
 * thunderbolt hotplug not working
