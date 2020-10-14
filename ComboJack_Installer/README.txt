@@ -3,4 +3,4 @@ Hackintosh combojack support for alc289(Dell xps 13 9300).
 2. Add login items in System preferences->Users & Groups->login items->press '+' button and add 'Combojack'
 3. Done. When you attach a headphone there will be a popup asking about headphone type.
 
-
+Thanks to @Daliansky modify the code for xps 13 9300
