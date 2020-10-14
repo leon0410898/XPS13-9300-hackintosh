@@ -5,6 +5,6 @@ English/[中文](README_CN.md)
 
 2.Now you can boot into macOS. But still black screen in the login page. Type your password and close the lid.
 
-3.Waiting for a few secounds. Now display turn on but very very dim.(The backlight was turned off, you can check with flashlight)
+3.Waiting for a few secounds then open the lid. Now display turn on but very very dim.(The backlight was turned off, you can check with flashlight)
 
 4.Waiting for a few minutes until the brightness back to normal. 
