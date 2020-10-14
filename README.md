@@ -40,6 +40,24 @@ Thanks to 宪武.He has done a lot of work on 4k display.But still, there are so
             
 ---
 
+### Bios settings
+# Enable :
+* SATA Operation : AHCI
+* Enable MediaCard : check Enable SD Card (Do not check SD card Boot, it will cause SD card kext fail to load.)
+* Fastboot : Thorough
+
+# Disable : 
+* Secure Boot
+* TPM2.0 Security On
+* Intel SGX
+* Wake on AC
+* Wake on Dell USB-C Dock
+* Power On Lid Open 
+* Sign Of Life : Early Logo Display 
+* VT for Direct I/O
+* Fingerprint reader
+* cfg lock : DO AT YOUR OWN RISK!!! This may brick your laptop.
+
 ### Known Problem
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
