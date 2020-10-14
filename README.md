@@ -58,7 +58,11 @@ English/[中文](README-CN.md)
 * display may be very dark if wake immediately 
 * usb-c to hdmi/DP probably not working
 
-### Updated 10.12 
+### Updated 10.14
+
+* fix secound sleep fail issue, sleep/wake now working perfectly (By testing, battery drop 3~4% overnight)
+* fix poor sound quailty issue by applying combojack
+* undervolt cpu, and modify PL1, PL2 make significant improve on CPU performance.(geekbench5 score original : 12xx/33xx, now : 12xx/43xx)
 
 ![usb2](./screenshot/usb2.png)
 
