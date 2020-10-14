@@ -4,4 +4,5 @@ Hackintosh combojack support for alc289(Dell xps 13 9300).
 3. Done. When you attach a headphone there will be a popup asking about headphone type.
 
 ![combojack](https://github.com/leon0410898/XPS13-9300-hackintosh/blob/master/ComboJack_Installer/screenshot/combojack.png)
+
 Thanks to @daliansky modify the code for xps 13 9300
