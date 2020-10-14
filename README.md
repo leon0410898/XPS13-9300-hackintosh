@@ -2,14 +2,6 @@
 
 English/[中文](README-CN.md)
 
-
-**Note1:Thanks to 宪武.He has done a lot of work on 4k display.But still, there are some problems need to be fixed. Please read the [instruction](README_4k_i5.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You need to change your device proverties in config.**  
-            
-
-**Note2 : I AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!**
-
-### Tested software configuration
-
 **OpenCore Version**: [0.6.2](https://github.com/acidanthera/OpenCorePkg/releases)
 
 **BIOS Version** : 1.2.0
@@ -40,6 +32,10 @@ English/[中文](README-CN.md)
 | Sleep                      | Working - S3 sleep|
 | Thunderbolt 3              | Working - hotplug not working|
 | Fingerprint Sensor         | Not working |
+
+### 4K display 
+Thanks to 宪武.He has done a lot of work on 4k display.But still, there are some problems need to be fixed. Please read the [instruction](README_4k_i5.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You need to change your device proverties in config.
+            
 
 ### Known Problem
 * thunderbolt hotplug not working
