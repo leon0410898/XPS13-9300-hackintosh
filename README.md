@@ -24,7 +24,7 @@ English/[中文](README-CN.md)
 | ----------------------     | ------------------------------------------------------------|
 | CPU - i7-1065G7            | Working - Applying voltageshift for better performance   |
 | GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire is loaded                     |
-| Screen - 1920x1200         | Working                               |
+| Screen                     | Working - 1920x1200 Non-touch                              |
 | RAM                        | Working |
 | SSD                        | Working |
 | Audio                      | Working - headphones jack need to be fixed by combojack |                              
@@ -32,12 +32,12 @@ English/[中文](README-CN.md)
 | Bluetooth                  | Working - airpods pro / apple watch |
 | SD card reader             | Working |                     
 | Battery                    | Working |                  
-| USB 3.x / USB 2.0          | Working |
+| USB 3.x / USB 2.0          | Working - usb3.1 10Gbps|
 | HotKeys                    | Working - mute F1, volume F2/F3, keyboard brightness F5, brightness F6/F7, disable trackpad F10|
 | Webcom                     | Working |
-| Laptop KeyBoard            | Working |
-| Laptop Trackpad            | Working |
-| Sleep                      | Working |
+| Laptop KeyBoard            | Working - PS2|
+| Laptop Trackpad            | Working - I2C GPIO interrupt|
+| Sleep                      | Working - S3 sleep|
 | Thunderbolt 3              | Working - hotplug not working|
 | Fingerprint Sensor         | Not working |
 
