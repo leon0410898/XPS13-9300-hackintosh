@@ -18,15 +18,15 @@ English/[中文](README-CN.md)
 
 ![hackintosh](./screenshot/hackintosh.png)
 
-### Tested hardware configuration
+### hardware status
 
 | Hardware                   | Status                                                      |
 | ----------------------     | ------------------------------------------------------------|
 | CPU - i7-1065G7            | Working - Applying voltageshift for better performance   |
 | GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire is loaded                     |
 | Screen                     | Working - 1920x1200 Non-touch                              |
-| RAM                        | Working |
-| SSD                        | Working |
+| RAM                        | Working - On Board 16G |
+| SSD                        | Working - 2TB |
 | Audio                      | Working - headphones jack need to be fixed by combojack |                              
 | Wireless                   | Working - wifi / handoff|
 | Bluetooth                  | Working - airpods pro / apple watch |
