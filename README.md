@@ -20,40 +20,28 @@ English/[中文](README-CN.md)
 
 ### Tested hardware configuration
 
-| Key                    | Value                                                        |
-| ---------------------- | ------------------------------------------------------------ |
-| SKU                    | [Dell XPS13-9300](https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9300-laptop) |
-| CPU                    | Intel Core i7-1065G7                                           |
-| GPU                    | Intel Iris Plus Graphics G7                                       |
-| Builtin Screen         | 13.4"  Sharp 1920x1200 Non-Touch                                      |
-| RAM                    | On Board 16G 3733MHz DDR4x                                |
-| SSD                    | Hykvision 2TB                    |
-| Audio                  | Realtek ALC289                                               |
-| Wireless               | Killer ax1650                              |
-| SD card reader         | Realtek rts525a                      |
-| Battery                | BYD 52Whr                                |
-
-### Working
-
-* iGPU : working.
-* Wireless : WiFi, handoff working.
-* Bluetooth : working.
-* Audio(AppleALC) : speaker, headphone, mic working.
-* Camera : working.
-* KeyBoard : keyboard (PS2, support Fn key controll : mute F1, volume down/up F2/F3, video play/stop F4, keyboard brightness F5, 
-                       brightness down/up F6/F7, disable touchpad F10) working.
-* Touchpad : Touchpad (I2C GPIO interrupt, support Multi-touch gesture) working.
-* USB : USB3.1 Type-C port (10 Gbps) working
-* ThunderBolt 3 : ThunderBolt 3 (40 Gbps) testing on external GPU(Razer CoreX with AMD Radeon RX 5700XT) working.
-* Brightness Controll : wokring.
-* Sleep/Wake: ~~partialy working(can sleep once, second sleep will cause kernel panic).~~ working perfectly
-* SD card reader : working.
-* Battery : working
+| Hardware                   | Status                                                      |
+| ----------------------     | ------------------------------------------------------------|
+| CPU - i7-1065G7            | Working - Applying voltageshift for better performance   |
+| GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire is loaded                     |
+| Builtin Screen - 13.4" Sharp 1920x1200 Non-Touch | Working                               |
+| RAM - On Board 16G 3733MHz DDR4x | Working |
+| SSD - Hykvision C2000 2TB        | Working |
+| Audio - Realtek ALC289           | Working - headphones jack need to be fixed by combojack |                              
+| Wireless - Killer ax1650         | Working - wifi/handoff|
+| Bluetooth                        | Working - airpods pro / apple watch |
+| SD card reader - Realtek rts525a | Working |                     
+| Battery - BYD 52Whr              | Working |                  
+| USB 3.x / USB 2.0                | Working |
+| HotKeys                          | Working - mute F1, volume F2/F3, video F4, keyboard brightness F5, brightness F6/F7, disable touchpad F10) |
+| Webcom | Working |
+| Laptop KeyBoard | Working |
+|Laptop Trackpad|Working|
+|Sleep| Working|
+|Thunderbolt 3| Working - hotplug not working|
+|Fingerprint Sensor|Not working|
 
 ### Known Problem
-* ~~Second sleep will cause kernel panic~~
-* ~~can‘t disable cfg lock (will be appreciate if someone can help)~~  take a look -> https://github.com/Not-a-true-statement/OC-XPS-13-9300
-* ~~poor sound quality for low impedance headphones , but sounds OK for normal earphone.~~ all working perfectly 
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
 * usb-c to hdmi/DP probably not working
