@@ -24,22 +24,22 @@ English/[中文](README-CN.md)
 | ----------------------     | ------------------------------------------------------------|
 | CPU - i7-1065G7            | Working - Applying voltageshift for better performance   |
 | GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire is loaded                     |
-| Screen - 1920x1200      | Working                               |
-| RAM - 16G                        | Working |
-| SSD - Hykvision C2000 2TB        | Working |
-| Audio - Realtek ALC289           | Working - headphones jack need to be fixed by combojack |                              
-| Wireless - Killer ax1650         | Working - wifi / handoff|
-| Bluetooth                        | Working - airpods pro / apple watch |
-| SD card reader - Realtek rts525a | Working |                     
-| Battery - BYD 52Whr              | Working |                  
-| USB 3.x / USB 2.0                | Working |
-| HotKeys                          | Working - mute F1, volume F2/F3, video F4, keyboard brightness F5, brightness F6/F7, disable touchpad F10) |
-| Webcom | Working |
-| Laptop KeyBoard | Working |
-|Laptop Trackpad|Working|
-|Sleep| Working|
-|Thunderbolt 3| Working - hotplug not working|
-|Fingerprint Sensor|Not working|
+| Screen - 1920x1200         | Working                               |
+| RAM                        | Working |
+| SSD                        | Working |
+| Audio                      | Working - headphones jack need to be fixed by combojack |                              
+| Wireless                   | Working - wifi / handoff|
+| Bluetooth                  | Working - airpods pro / apple watch |
+| SD card reader             | Working |                     
+| Battery                    | Working |                  
+| USB 3.x / USB 2.0          | Working |
+| HotKeys                    | Working - mute F1, volume F2/F3, video F4, keyboard brightness F5, brightness F6/F7, disable touchpad F10) |
+| Webcom                     | Working |
+| Laptop KeyBoard            | Working |
+| Laptop Trackpad            | Working |
+| Sleep                      | Working |
+| Thunderbolt 3              | Working - hotplug not working|
+| Fingerprint Sensor         | Not working |
 
 ### Known Problem
 * thunderbolt hotplug not working
