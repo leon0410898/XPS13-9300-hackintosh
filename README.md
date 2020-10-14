@@ -24,11 +24,11 @@ English/[中文](README-CN.md)
 | ----------------------     | ------------------------------------------------------------|
 | CPU - i7-1065G7            | Working - Applying voltageshift for better performance   |
 | GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire is loaded                     |
-| Builtin Screen - 13.4" Sharp 1920x1200 Non-Touch | Working                               |
-| RAM - On Board 16G 3733MHz DDR4x | Working |
+| Screen - 1920x1200 Non-Touch     | Working                               |
+| RAM - 16G                        | Working |
 | SSD - Hykvision C2000 2TB        | Working |
 | Audio - Realtek ALC289           | Working - headphones jack need to be fixed by combojack |                              
-| Wireless - Killer ax1650         | Working - wifi/handoff|
+| Wireless - Killer ax1650         | Working - wifi / handoff|
 | Bluetooth                        | Working - airpods pro / apple watch |
 | SD card reader - Realtek rts525a | Working |                     
 | Battery - BYD 52Whr              | Working |                  
