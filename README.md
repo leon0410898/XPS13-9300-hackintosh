@@ -33,7 +33,7 @@ English/[中文](README-CN.md)
 | SD card reader             | Working |                     
 | Battery                    | Working |                  
 | USB 3.x / USB 2.0          | Working |
-| HotKeys                    | Working - mute F1, volume F2/F3, video F4, keyboard brightness F5, brightness F6/F7, disable touchpad F10) |
+| HotKeys                    | Working - mute F1, volume F2/F3, keyboard brightness F5, brightness F6/F7, disable trackpad F10|
 | Webcom                     | Working |
 | Laptop KeyBoard            | Working |
 | Laptop Trackpad            | Working |
