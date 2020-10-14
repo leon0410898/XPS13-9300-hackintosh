@@ -67,6 +67,8 @@ For people who want better cpu performance(undervolt, modify PL1,PL2) need to un
 
 Follow the guide at :  https://github.com/Not-a-true-statement/Hackintosh-OC-XPS-13-9300
 
+---
+
 ## Known Problem
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
