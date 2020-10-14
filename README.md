@@ -14,24 +14,24 @@ English/[中文](README-CN.md)
 
 | Hardware                   | Status                                                      |
 | ----------------------     | ------------------------------------------------------------|
-| CPU - i7-1065G7            | Working - Applying voltageshift for better performance   |
-| GPU - Iris Plus G7         | Working - Appple GUC firmwire is loaded                     |
-| Screen                     | Working - 1920x1200 Non-touch                              |
-| RAM                        | Working - On Board 16G |
-| SSD                        | Working - 2TB |
-| Audio                      | Working - headphones jack need to be fixed by combojack |                              
-| Wireless                   | Working - wifi / handoff|
-| Bluetooth                  | Working - airpods pro / apple watch |
-| SD card reader             | Working |                     
-| Battery                    | Working |                  
-| USB 3.x / USB 2.0          | Working - usb3.1 10Gbps|
+| CPU - i7-1065G7            | Working - Applying voltageshift for better performance      |
+| GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire is loaded                     |
+| Screen                     | Working - 1920x1200 Non-touch                               |
+| RAM                        | Working - On Board 16G                                      |
+| SSD                        | Working - 2TB                                               |
+| Audio                      | Working - headphones jack need to be fixed by combojack     |                              
+| Wireless                   | Working - wifi / handoff                                    |
+| Bluetooth                  | Working - airpods pro / apple watch                         |
+| SD card reader             | Working                                                     |                     
+| Battery                    | Working                                                     |                  
+| USB 3.x / USB 2.0          | Working - usb3.1 10Gbps                                     |
 | HotKeys                    | Working - mute F1, volume F2/F3, keyboard brightness F5, brightness F6/F7, disable trackpad F10|
-| Webcom                     | Working |
-| Laptop KeyBoard            | Working - PS2|
-| Laptop Trackpad            | Working - I2C GPIO interrupt|
-| Sleep                      | Working - S3 sleep|
-| Thunderbolt 3              | Working - hotplug not working|
-| Fingerprint Sensor         | Not working |
+| Webcom                     | Working                                                     |
+| Laptop KeyBoard            | Working - PS2                                               |
+| Laptop Trackpad            | Working - I2C GPIO interrupt                                |
+| Sleep                      | Working - S3 sleep                                          |
+| Thunderbolt 3              | Working - hotplug not working                               |
+| Fingerprint Sensor         | Not working                                                 |
 
 ---
 
