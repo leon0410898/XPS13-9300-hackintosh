@@ -3,7 +3,7 @@
 English/[中文](README-CN.md)
 
 
-**Note1:Thanks to 宪武.He has done a lot of work on 4k display.But still, there are some problems need to be fixed. Please read the instruction(./EFI_xps9300_4k_1035G1/README.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You need to change your device proverties in config.**  
+**Note1:Thanks to 宪武.He has done a lot of work on 4k display.But still, there are some problems need to be fixed. Please read the instruction(https://github.com/leon0410898/XPS13-9300-hackintosh/blob/master/EFI_xps9300_4k_1035G1/README.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You need to change your device proverties in config.**  
             
 
 **Note2 : I AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!**
