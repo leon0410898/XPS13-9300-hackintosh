@@ -33,20 +33,26 @@ English/[中文](README-CN.md)
 | Thunderbolt 3              | Working - hotplug not working|
 | Fingerprint Sensor         | Not working |
 
+---
+
 ### 4K display 
 Thanks to 宪武.He has done a lot of work on 4k display.But still, there are some problems need to be fixed. Please read the [instruction](README_4k_i5.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You need to change your device proverties in config.
             
+---
 
 ### Known Problem
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
 * usb-c to hdmi/DP probably not working
 
-### Updated 10.14
+---
 
+### Updated 10.14
 * fix secound sleep fail issue, sleep/wake now working perfectly (By testing, battery drop 3~4% overnight)
 * fix poor sound quailty issue by applying combojack
 * undervolt cpu, and modify PL1, PL2 make significant improve on CPU performance.(geekbench5 score original : 12xx/33xx, now : 12xx/43xx)
+
+---
 
 ![usb2](./screenshot/usb2.png)
 
