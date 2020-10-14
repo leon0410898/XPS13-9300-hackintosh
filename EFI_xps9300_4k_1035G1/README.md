@@ -1,5 +1,5 @@
 
-## [English](README.md)/[中文](README_CN.md)
+English/[中文](README_CN.md)
 
 1.For first install you may encounter black screen issue. Please turn off your computer first and select 'CleanNvram' in Opencore boot menu.
 
