@@ -2,8 +2,8 @@
 
 English/[中文](README-CN.md)
 
-**Note1 : ~~This guide may NOT work for 4K display user. You can install macOS. However you'll probably encounter black screen issue.~~**
-          **4K display is working now, but still need some work to do. May released later.**  
+
+**Note1:Thanks to 宪武.He has done a lot of work on 4k display.But still, there are some problems need to be fixed. Please read the instruction first and confirm your cpu model. If your cpu model is not i5-1035G1. You need to change your device proverties in config.**  
             
 
 **Note2 : I AM NOT RESPONSIBLE IF YOU MESS UP YOUR COMPUTER USING THIS GUIDE!**
@@ -57,6 +57,8 @@ English/[中文](README-CN.md)
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
 * usb-c to hdmi/DP probably not working
+
+### Updated 10.12 
 
 ![usb2](./screenshot/usb2.png)
 
