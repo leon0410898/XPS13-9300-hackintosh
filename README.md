@@ -62,7 +62,9 @@ Thanks to 宪武. He has done a lot of work on 4k display. But still, there are 
 
 ## Disable CFG lock
 For people who want better cpu performance(undervolt, modify PL1,PL2) need to unlock their cfg lock.
-DO AT YOUR OWN RISK!!! It may brick your laptop.
+
+## DO AT YOUR OWN RISK!!! It may brick your laptop.##
+
 Follow the guide at :  https://github.com/Not-a-true-statement/Hackintosh-OC-XPS-13-9300
 
 ## Known Problem
