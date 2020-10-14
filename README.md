@@ -24,7 +24,7 @@ English/[中文](README-CN.md)
 | ----------------------     | ------------------------------------------------------------|
 | CPU - i7-1065G7            | Working - Applying voltageshift for better performance   |
 | GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire is loaded                     |
-| Screen - 1920x1200 Non-Touch     | Working                               |
+| Screen - 1920x1200      | Working                               |
 | RAM - 16G                        | Working |
 | SSD - Hykvision C2000 2TB        | Working |
 | Audio - Realtek ALC289           | Working - headphones jack need to be fixed by combojack |                              
