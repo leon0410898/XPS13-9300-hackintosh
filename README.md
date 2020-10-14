@@ -36,7 +36,7 @@ English/[中文](README-CN.md)
 ---
 
 ## 4K display 
-Thanks to 宪武.He has done a lot of work on 4k display.But still, there are some problems need to be fixed. Please read the [instruction](README_4k_i5.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You need to change your device proverties in config.
+Thanks to 宪武. He has done a lot of work on 4k display. But still, there are some problems need to be fixed. Please read the [instruction](README_4k_i5.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You need to change your device proverties in config.
             
 ---
 
@@ -56,7 +56,14 @@ Thanks to 宪武.He has done a lot of work on 4k display.But still, there are so
 * Sign Of Life : Early Logo Display 
 * VT for Direct I/O
 * Fingerprint reader
-* cfg lock : DO AT YOUR OWN RISK!!! This may brick your laptop.
+* cfg lock : DO AT YOUR OWN RISK!!! It may brick your laptop.
+
+---
+
+## Disable CFG lock
+For people who want better cpu performance(undervolt, modify PL1,PL2) need to unlock their cfg lock.
+DO AT YOUR OWN RISK!!! It may brick your laptop.
+Follow the guide from this repo :  https://github.com/Not-a-true-statement/Hackintosh-OC-XPS-13-9300
 
 ## Known Problem
 * thunderbolt hotplug not working
