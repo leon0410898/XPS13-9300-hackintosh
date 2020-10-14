@@ -35,18 +35,18 @@ English/[中文](README-CN.md)
 
 ---
 
-### 4K display 
+## 4K display 
 Thanks to 宪武.He has done a lot of work on 4k display.But still, there are some problems need to be fixed. Please read the [instruction](README_4k_i5.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You need to change your device proverties in config.
             
 ---
 
-### Bios settings
-# Enable :
+## Bios settings
+### Enable :
 * SATA Operation : AHCI
 * Enable MediaCard : check Enable SD Card (Do not check SD card Boot, it will cause SD card kext fail to load.)
 * Fastboot : Thorough
 
-# Disable : 
+### Disable : 
 * Secure Boot
 * TPM2.0 Security On
 * Intel SGX
@@ -58,14 +58,14 @@ Thanks to 宪武.He has done a lot of work on 4k display.But still, there are so
 * Fingerprint reader
 * cfg lock : DO AT YOUR OWN RISK!!! This may brick your laptop.
 
-### Known Problem
+## Known Problem
 * thunderbolt hotplug not working
 * display may be very dark if wake immediately 
 * usb-c to hdmi/DP probably not working
 
 ---
 
-### Updated 10.14
+## Updated 10.14
 * fix secound sleep fail issue, sleep/wake now working perfectly (By testing, battery drop 3~4% overnight)
 * fix poor sound quailty issue by applying combojack
 * undervolt cpu, and modify PL1, PL2 make significant improve on CPU performance.(geekbench5 score original : 12xx/33xx, now : 12xx/43xx)
