@@ -75,7 +75,7 @@ Follow the guide at :  https://github.com/Not-a-true-statement/Hackintosh-OC-XPS
 * usb-c to hdmi/DP probably not working
 
 ---
-## Udated 10.17
+## Updated 10.17
 * improve 4k disaplay's backlight.
 
 ## Updated 10.14
