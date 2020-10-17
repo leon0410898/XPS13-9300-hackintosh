@@ -15,7 +15,7 @@ English/[中文](README-CN.md)
 | Hardware                   | Status                                                      |
 | ----------------------     | ------------------------------------------------------------|
 | CPU - i7-1065G7            | Working - Applying voltageshift for better performance      |
-| GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire working                       |
+| GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire                               |
 | Screen                     | Working - 1920x1200 Non-touch                               |
 | RAM                        | Working - On Board 16G                                      |
 | SSD                        | Working - 2TB                                               |
@@ -30,7 +30,7 @@ English/[中文](README-CN.md)
 | Laptop KeyBoard            | Working - PS2                                               |
 | Laptop Trackpad            | Working - I2C GPIO interrupt                                |
 | Sleep                      | Working - S3 sleep                                          |
-| Thunderbolt 3              | Working - hotplug not working                               |
+| Thunderbolt 3              | Partialy working - hotplug not working                      |
 | Fingerprint Sensor         | Not working                                                 |
 
 ---
