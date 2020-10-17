@@ -15,7 +15,7 @@ English/[中文](README-CN.md)
 | Hardware                   | Status                                                      |
 | ----------------------     | ------------------------------------------------------------|
 | CPU - i7-1065G7            | Working - Applying voltageshift for better performance      |
-| GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire is loaded                     |
+| GPU - Iris Plus Graphics G7| Working - Appple GUC firmwire working                       |
 | Screen                     | Working - 1920x1200 Non-touch                               |
 | RAM                        | Working - On Board 16G                                      |
 | SSD                        | Working - 2TB                                               |
@@ -76,7 +76,7 @@ Follow the guide at :  https://github.com/Not-a-true-statement/Hackintosh-OC-XPS
 
 ---
 ## Udated 10.17
-* improve 4k disaplay's backlight issue.
+* improve 4k disaplay's backlight.
 
 ## Updated 10.14
 * fix secound sleep fail issue, sleep/wake now working perfectly (By testing, battery drop 3~4% overnight)
