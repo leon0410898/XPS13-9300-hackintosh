@@ -75,6 +75,8 @@ Follow the guide at :  https://github.com/Not-a-true-statement/Hackintosh-OC-XPS
 * usb-c to hdmi/DP probably not working
 
 ---
+## Udated 10.17
+* improve 4k disaplay's backlight issue.
 
 ## Updated 10.14
 * fix secound sleep fail issue, sleep/wake now working perfectly (By testing, battery drop 3~4% overnight)
