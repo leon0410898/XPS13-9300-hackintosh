@@ -8,7 +8,7 @@ English/[中文](README-CN.md)
 
 **macOS Version**: macOS Catalina 10.15.7 / Big Sur Beta10
 
-![hackintosh](./screenshot/hackintosh.png)
+![hackintosh](./screenshot/hackintosh2.png)
 
 ### hardware status
 
