@@ -28,7 +28,7 @@ English/[中文](README-CN.md)
 | HotKeys                    | Working - mute F1, volume F2/F3, keyboard brightness F5, brightness F6/F7, disable trackpad F10|
 | Webcom                     | Working                                                     |
 | Laptop KeyBoard            | Working - PS2                                               |
-| Laptop Trackpad            | Working - I2C GPIO interrupt[#6](https://github.com/leon0410898/XPS13-9300-hackintosh/issues/6)|
+| Laptop Trackpad            | Working - Turn off force touch in System Preferences->trackpad[(#6)](https://github.com/leon0410898/XPS13-9300-hackintosh/issues/6)|
 | Sleep                      | Working - S3 sleep                                          |
 | Thunderbolt 3              | Partialy working - hotplug not working                      |
 | Fingerprint Sensor         | Not working                                                 |
