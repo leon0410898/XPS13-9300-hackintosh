@@ -34,6 +34,10 @@ English/[中文](README-CN.md)
 | Fingerprint Sensor         | Not working                                                 |
 
 ---
+## Big Sur 
+For the fisrt install. Boot with EFI_big_sir_boot first. It will take a long time to install Big Sur. So, please be patient. After boot into the system, then replace EFI_big_sir_boot with EFI. Finally, make sure to replace [Airportitlwm](https://github.com/OpenIntelWireless/itlwm/releases) with Big Sur version.
+
+---
 
 ## 4K display 
 Thanks to 宪武. He has done a lot of works on 4k display. But still, there are some problems need to be fixed. Please read the [instruction](README_4k_i5.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You'll need to change your device proverties in config.
@@ -71,10 +75,14 @@ Follow the guide at :  https://github.com/Not-a-true-statement/Hackintosh-OC-XPS
 
 ## Known Problem
 * thunderbolt hotplug not working
-* display may be very dark if wake immediately 
-* usb-c to hdmi/DP probably not working
+* usb-c to hdmi/DP not working
 
 ---
+## Updated 10.29
+* remove fakepciid and improve the stability of AppleALC
+* update Big Sur version
+* fix the screen brightness is unusually low after sleep
+
 ## Updated 10.17
 * improve 4k disaplay's backlight.
 
