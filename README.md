@@ -35,7 +35,7 @@ English/[中文](README-CN.md)
 
 ---
 ## Big Sur 
-For the fisrt install. Boot with EFI_big_sir_boot first. It will take a long time to install Big Sur. So, please be patient. After boot into the system, then replace EFI_big_sir_boot with EFI. Finally, make sure to update [Airportitlwm](https://github.com/OpenIntelWireless/itlwm/releases) version.
+For the fisrt install. Boot with EFI_big_sir_boot first. It will take a long time to install Big Sur. So, please be patient. After boot into the system, then replace EFI_big_sir_boot with EFI. Finally, make sure to change [Airportitlwm](https://github.com/OpenIntelWireless/itlwm/releases) to big sur version.
 
 ---
 
