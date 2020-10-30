@@ -38,6 +38,7 @@ English/[中文](README-CN.md)
 For the fisrt install. Boot with EFI_big_sir_boot first. It will take a long time to install Big Sur. So, please be patient. After boot into the system, then replace EFI_big_sir_boot with EFI. Finally, make sure to change [Airportitlwm](https://github.com/OpenIntelWireless/itlwm/releases) to big sur version.
 
 DO NOT RESTART thinking you're stuck, this will take quite some time(16mins) to complete, otherwise you'll break your installation.
+
 ![ISHD](./screenshot/stuck_on_ISHD.jpg)
 
 ---
