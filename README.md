@@ -61,7 +61,7 @@ Thanks to 宪武. He has done a lot of works on 4k display. But still, there are
 * Wake on AC
 * Wake on Dell USB-C Dock
 * Power On Lid Open 
-* Sign Of Life : Early Logo Display 
+* Sign Of Life : Early Logo Display / Early keyboard backlight
 * VT for Direct I/O
 * Fingerprint reader
 * cfg lock : DO AT YOUR OWN RISK!!! It may brick your laptop.
