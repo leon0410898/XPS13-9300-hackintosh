@@ -44,7 +44,7 @@ DO NOT RESTART thinking you're stuck, this will take quite some time(16mins) to 
 ---
 
 ## 4K display 
-Thanks to 宪武. He has done a lot of works on 4k display. But still, there are some problems need to be fixed. Please read the [instruction](EFI_xps9300_4k_1035G1README.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You'll need to change your device proverties in config.
+Thanks to 宪武. He has done a lot of works on 4k display. But still, there are some problems need to be fixed. Please read the [instruction](EFI_xps9300_4k_1035G1/README.md) first and confirm your cpu model. If your cpu model is not i5-1035G1. You'll need to change your device proverties in config.
             
 ---
 
