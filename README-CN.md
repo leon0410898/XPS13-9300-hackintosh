@@ -41,6 +41,24 @@
 * 睡眠 : 部分正常(只能一次睡眠, 第二次睡眠系統會重啟)
 * SD 讀卡機 : 正常
 
+### bios 設定
+### 開啟 :
+* SATA Operation : AHCI
+* Enable MediaCard : SD Card選項打勾 (SD card Boot不要打勾, 會造成SD卡kext加載失敗)
+* Fastboot : Thorough
+
+### 關閉 : 
+* Secure Boot
+* TPM2.0 Security On
+* Intel SGX
+* Wake on AC
+* Wake on Dell USB-C Dock
+* Power On Lid Open 
+* Sign Of Life : Early Logo Display / Early keyboard backlight
+* VT for Direct I/O
+* Fingerprint reader
+* cfg lock : 參考 https://github.com/Not-a-true-statement/Hackintosh-OC-XPS-13-9300(將cfg.lock放置下載目錄下,並將cfglock.sh文件中putvar前#刪除,在運行cfglock.sh）
+
 ### 已知問題
 * 雷電3沒辦法熱插拔
 * usb-c轉HDMI/DP外接螢幕不顯示（AAPL,platform-id換成0000528a, device-id換成528a0000,外接顯示器正常工作,但睡眠喚醒黑屏,自己取捨）
