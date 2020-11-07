@@ -8,7 +8,7 @@
 
 **OpenCore 版本**: [0.6.2](https://github.com/acidanthera/OpenCorePkg/releases)
 
-**macOS 版本**: macOS Catalina 10.15.7
+**macOS 版本**: macOS Catalina 10.15.7 / Big Sur Beta 11.0.1
 
 **bios 版本**: 1.2.0
 
@@ -19,7 +19,7 @@
 | SKU                | [Dell XPS13-9300](https://www.dell.com/en-us/shop/cty/pdp/spd/xps-13-9300-laptop) |
 | CPU                | Intel Core i7-1065G7                                          |
 | 顯卡                | Intel Iris Plus Graphics G7                                       |
-| 內建螢幕            | 13.4"  1080p 夏普 霧面 非觸控螢幕                                         |
+| 內建螢幕            | 13.4"  1200p 霧面 非觸控螢幕                                         |
 | RAM                | 板載 16G 3733MHz DDR4x                                   |
 | SSD                | 海康威視 c2000 2TB                         |
 | Audio              | Realtek ALC289                                               |
@@ -42,11 +42,7 @@
 * SD 讀卡機 : 正常
 
 ### 已知問題
-* 第二次睡眠系統會重啟
-* cfg lock沒法解鎖（目前無解,希望有人能分享方法）
-* 低阻抗耳機有底噪,會破音,5毛地攤貨耳機使用正常
 * 雷電3沒辦法熱插拔
-* 若快速從睡眠狀態恢復,顯示器會非常暗(應該是背光面板關閉)
 * usb-c轉HDMI/DP外接螢幕不顯示（AAPL,platform-id換成0000528a, device-id換成528a0000,外接顯示器正常工作,但睡眠喚醒黑屏,自己取捨）
 
 ![hackintosh](./screenshot/hackintosh.png)
