@@ -38,7 +38,7 @@
 * USB : USB3.1 Type-C port (10 Gbps) 正常
 * 雷電3 : 雷電3 (40 Gbps) 外接顯卡 (Razer CoreX with AMD Radeon RX5700XT) 正常工作
 * 亮度(快捷鍵) 控制 : 正常
-* 睡眠 : 部分正常(只能一次睡眠, 第二次睡眠系統會重啟)
+* 睡眠 : 正常
 * SD 讀卡機 : 正常
 
 ### bios 設定
