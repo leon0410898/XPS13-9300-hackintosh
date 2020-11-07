@@ -57,7 +57,7 @@
 * Sign Of Life : Early Logo Display / Early keyboard backlight
 * VT for Direct I/O
 * Fingerprint reader
-* cfg lock : 參考 https://github.com/Not-a-true-statement/Hackintosh-OC-XPS-13-9300 (將cfg.lock放置下載目錄下,並將cfglock.sh文件中putvar前#刪除,在運行cfglock.sh）
+* cfg lock : 參考 https://github.com/Not-a-true-statement/Hackintosh-OC-XPS-13-9300 (將cfglock.sh放置下載目錄下,並將cfglock.sh文件中putvar前#刪除,在運行cfglock.sh）
 
 ### 已知問題
 * 雷電3沒辦法熱插拔
