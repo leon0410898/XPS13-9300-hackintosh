@@ -6,7 +6,7 @@ English/[中文](README-CN.md)
 
 **BIOS Version** : 1.2.0
 
-**macOS Version**: macOS Catalina 10.15.7 / Big Sur Beta10
+**macOS Version**: macOS Catalina 10.15.7 / Big Sur 11.0.1
 
 ![hackintosh](./screenshot/hackintosh2.png)
 
